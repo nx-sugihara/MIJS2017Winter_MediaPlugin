@@ -20,7 +20,7 @@ namespace MIJSWinter2
 
                     aboutPage = new NavigationPage(new AboutPage())
                     {
-                        Title = "About"
+                        Title = "カメラ撮影"
                     };
                     itemsPage.Icon = "tab_feed.png";
                     aboutPage.Icon = "tab_about.png";
